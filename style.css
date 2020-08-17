@@ -1,0 +1,31 @@
+.main{
+    border: 2px solid gray;
+    width: 200px;
+    margin: 0 auto;
+    
+
+}
+.result{
+    width: 97.5%;
+     background-color: gray;
+     color: #ffffff;
+}
+
+.clear-btn{
+    width: 100%;
+    margin-top: 10px;
+    background-color: royalblue;
+}
+
+.btn{
+  background-color: royalblue;
+    width: 45px;
+    margin: 1px;
+}
+
+
+.t-btn{
+    background-color: royalblue;
+    width: 98px;
+    margin-top: 5px;
+}
